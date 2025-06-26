@@ -1,4 +1,4 @@
-# FashionKart Excel Sales Dashboard (2022)
+# FashionKart Sales Dashboard (2022)
 
 This is an Excel-based sales analysis project created for FashionKart, an online fashion store. The goal was to understand customer behavior, top-performing platforms, and regional trends based on 2022 order data.
 
